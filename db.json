@@ -1,8 +1,6 @@
 {
   "users": [
     {
-      [
-  {
     "id": 1,
     "name": "Leanne Graham",
     "username": "Bret",
@@ -230,10 +228,8 @@
       "name": "Hoeger LLC",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
-    }
+    },
   }
-]
-    }
   ],
   "profile": {
     "name": "typicode"
