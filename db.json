@@ -4,29 +4,5 @@
       "id": 1,
       "title": "hello"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "introduction": {
-    "chinese_name": "Shaohsiung Yeung",
-    "nick_name": "Luca",
-    "birth_year": 1998,
-    "gender": "MALE",
-    "hobby": [
-    ],
-    "favorite_foods": [
-    ],
-    "favorite_books": [
-      {
-        "name": "1984",
-        "author": "George Orwell",
-        "impressive_sentences": []
-      }
-    ],
-    "favorite_games": [],
-    "null": null,
-    "isRelease": false,
-    "func": "function add(a, b) {}"
-  }
+    ]
 }
